@@ -20,7 +20,7 @@ If you see a package or project here that is no longer maintained or is not a go
   * [OCBC](https://api.ocbc.com/)
   * [DBS](https://www.dbs.com/dbsdevelopers/index.html)
 
-* Banks (Estonia)
+* Banks (Sweden)
   * [SEB](https://developer.baltics.sebgroup.com/)
 
 * Accounting Software
