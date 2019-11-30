@@ -15,6 +15,7 @@ If you see a package or project here that is no longer maintained or is not a go
 
 * Banks (US)
   * [Silicon Valley Bank](https://www.svb.com/developers)
+  * [Capital One](https://developer.capitalone.com/)
 
 * Banks (Singapore)
   * [OCBC](https://api.ocbc.com/)
@@ -26,11 +27,19 @@ If you see a package or project here that is no longer maintained or is not a go
 * Accounting Software
   * [Xero](https://developer.xero.com/)
   * [Intuit (QuickBooks)](https://www.developer.intuit.com/app/developer/homepage)
-
+  * [FreshBooks](https://www.freshbooks.com/api/start)
 
 * Remittance Services
   * [TransferWise](https://api-docs.transferwise.com/)
+  * [RemitRadar](https://remitradar.com/Api/ApiDoc)
 
 * Payment Gateway
   * [Stripe](https://stripe.com/docs)
   * [Paypal](https://developer.paypal.com/)
+  * [2c2p](https://developer.2c2p.com/)
+
+* Fintech
+  * [Plaid](https://plaid.com/docs/)
+  * [Brankas](https://brank.as/docs)
+
+
