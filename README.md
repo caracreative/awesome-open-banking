@@ -16,7 +16,7 @@ If you see a package or project here that is no longer maintained or is not a go
   * [Payment Gateway](#payment-gateway)
   * [API Aggregators](#api-aggregators)
 
-## Credit Card Companies
+## Credit Card
   * [American Express](https://developer.americanexpress.com/)
   * [Master Card](https://developer.mastercard.com/)
   * [VISA](https://developer.visa.com/)
