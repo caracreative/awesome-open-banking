@@ -48,6 +48,7 @@ If you see a package or project here that is no longer maintained or is not a go
   * [WorldPay](https://developer.worldpay.com/)
   * [Authorize.net](https://www.authorize.net/developers/)
   * [Amazon Pay](https://developer.amazon.com/docs/amazon-pay/intro.html)
+  * [Square Developer](https://developer.squareup.com/) - take payments from mobile app, website and in-person with Square
   * [WePay](https://developer.wepay.com/)
   * [WeChat Pay](https://pay.weixin.qq.com/index.php/public/wechatpay_en/developers) - Wechat Pay allows merchants and businesses to integrate for Quick Pay, QR Code Payment, Official Account Payment or In-App Payment
   * [Adyen](https://docs.adyen.com/) - Adyen aggregates all Payment Gateway APIs
