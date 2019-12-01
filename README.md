@@ -43,7 +43,19 @@ If you see a package or project here that is no longer maintained or is not a go
   * [2c2p](https://developer.2c2p.com/)
 
 ## API Aggregators
-  * [Plaid](https://plaid.com/docs/)
-  * [Brankas](https://brank.as/docs)
 
+*API Services that make it easy to access many Banking API Services*
+
+* [Plaid](https://plaid.com/docs/)
+* [Token](https://developer.token.io/)
+* [Yapily](https://docs.yapily.com/)
+* [Tink](https://docs.tink.com/)
+* [Brankas](https://brank.as/docs)
+* [MoneyHub](https://www.moneyhubenterprise.com/api-overview)
+  * MoneyHub data and insights API aggregate a customer’s financial data in a secure and simple way. Receive back not only the raw data, but our machine-learning powered insights. Save development time, stay compliant and use the most comprehensive financial data source on the market. 
+  * Payments API enable your users to make real-time payments direct from their bank accounts, initiated within your site. Highly competitive pricing and easy to integrate via a simple embeddable widget. Stay compliant while creating cheaper and faster payments. 
+* [Ibanity](https://documentation.ibanity.com/) - Ibanity provides financial services APIs exposed by Isabel Group. 
+  * XS2A connect to any bank and access account information or initiate payment orders directly from users' bank accounts.
+  * Isabel Connect enable Isabel users to aggregate their data and initiate payments across institutions.
+  * Ponto Connect enable Ponto users to aggregate their data and initiate payments across institutions.
 
