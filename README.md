@@ -68,5 +68,6 @@ If you see a package or project here that is no longer maintained or is not a go
   * XS2A connect to any bank and access account information or initiate payment orders directly from users' bank accounts.
   * Isabel Connect enable Isabel users to aggregate their data and initiate payments across institutions.
   * Ponto Connect enable Ponto users to aggregate their data and initiate payments across institutions.
-
-
+* [TrueLayer](https://docs.truelayer.com/) - TrueLayer allows applications to connect securely with their End user’s bank, in order to either read their financial data or initiate payments.
+  * Data API - instant access to financial data
+  * Payments API - instant payment initiation
