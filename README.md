@@ -38,9 +38,19 @@ If you see a package or project here that is no longer maintained or is not a go
   * [RemitRadar](https://remitradar.com/Api/ApiDoc)
 
 ## Payment Gateway
+
+*Payment Services and Payment Gateway for Merchants and Businesses*
+
   * [Stripe](https://stripe.com/docs)
   * [Paypal](https://developer.paypal.com/)
+  * [BrainTree](https://developers.braintreepayments.com/)
   * [2c2p](https://developer.2c2p.com/)
+  * [WorldPay](https://developer.worldpay.com/)
+  * [Authorize.net](https://www.authorize.net/developers/)
+  * [Amazon Pay](https://developer.amazon.com/docs/amazon-pay/intro.html)
+  * [WePay](https://developer.wepay.com/)
+  * [WeChat Pay](https://pay.weixin.qq.com/index.php/public/wechatpay_en/developers) - Wechat Pay allows merchants and businesses to integrate for Quick Pay, QR Code Payment, Official Account Payment or In-App Payment
+  * [Adyen](https://docs.adyen.com/) - Adyen aggregates all Payment Gateway APIs
 
 ## API Aggregators
 
@@ -58,4 +68,5 @@ If you see a package or project here that is no longer maintained or is not a go
   * XS2A connect to any bank and access account information or initiate payment orders directly from users' bank accounts.
   * Isabel Connect enable Isabel users to aggregate their data and initiate payments across institutions.
   * Ponto Connect enable Ponto users to aggregate their data and initiate payments across institutions.
+
 
