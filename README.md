@@ -14,6 +14,7 @@ If you see a package or project here that is no longer maintained or is not a go
   * [Accounting Software](#accounting-software)
   * [Remittance Services](#remittance-services)
   * [Payment Gateway](#payment-gateway)
+  * [Account & IBAN Validation](#account--iban-validation)
   * [API Aggregators](#api-aggregators)
 
 ## Credit Card
@@ -52,6 +53,10 @@ If you see a package or project here that is no longer maintained or is not a go
   * [WePay](https://developer.wepay.com/)
   * [WeChat Pay](https://pay.weixin.qq.com/index.php/public/wechatpay_en/developers) - Wechat Pay allows merchants and businesses to integrate for Quick Pay, QR Code Payment, Official Account Payment or In-App Payment
   * [Adyen](https://docs.adyen.com/) - Adyen aggregates all Payment Gateway APIs
+
+## Account & IBAN Validation
+
+* [IBANforge](https://ibanforge.com) - REST API for IBAN validation (75+ countries, mod-97 checksum, BBAN parsing) and BIC/SWIFT lookup (121K+ entries from GLEIF). Free tier, x402 micropayments, MCP server for AI agents, self-hostable via Docker. [GitHub](https://github.com/cammac-creator/ibanforge)
 
 ## API Aggregators
 
