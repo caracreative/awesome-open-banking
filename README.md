@@ -72,3 +72,4 @@ If you see a package or project here that is no longer maintained or is not a go
 * [TrueLayer](https://docs.truelayer.com/) - TrueLayer allows applications to connect securely with their End user’s bank, in order to either read their financial data or initiate payments.
   * Data API - instant access to financial data
   * Payments API - instant payment initiation
+* [open-banking.io](https://open-banking.io/) - European bank-account aggregation API with no PSD2/eIDAS certificates required. Client-held encryption keys, simple server-to-server API, ~€3/mo.
