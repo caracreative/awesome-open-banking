@@ -59,6 +59,7 @@ If you see a package or project here that is no longer maintained or is not a go
 
 * [Plaid](https://plaid.com/docs/)
 * [Token](https://developer.token.io/)
+* [open-banking.io](https://open-banking.io/) - open-banking.io is a zero-knowledge EU PSD2 open banking API aggregator providing read-only AISP access to bank accounts and transactions. No eIDAS/qWAC certificate required.
 * [Yapily](https://docs.yapily.com/)
 * [Tink](https://docs.tink.com/)
 * [Brankas](https://brank.as/docs)
