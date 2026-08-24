@@ -79,3 +79,5 @@ If you see a package or project here that is no longer maintained or is not a go
   * Data API - instant access to financial data
   * Payments API - instant payment initiation
 * [open-banking.io](https://open-banking.io/) - European bank-account aggregation API with no PSD2/eIDAS certificates required. Client-held encryption keys, simple server-to-server API, ~€3/mo.
+* [Wealth Reader](https://www.wealthreader.com/docs/en/introduction/) - Read-only aggregation of accounts, cards, loans and investment portfolios across 61 countries, over both the PSD2 and the non-PSD2 channel. The non-PSD2 channel returns wealth data that regulatory APIs do not expose: investment portfolio composition, ISIN and DGS codes.
+  * [OpenAPI 3 specification and agent-readable documentation](https://github.com/Wealth-Reader/wealthreader-api-docs)
