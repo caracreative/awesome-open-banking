@@ -16,6 +16,7 @@ If you see a package or project here that is no longer maintained or is not a go
   * [Payment Gateway](#payment-gateway)
   * [Account & IBAN Validation](#account--iban-validation)
   * [API Aggregators](#api-aggregators)
+  * [Tools](#tools)
 
 ## Credit Card
   * [American Express](https://developer.americanexpress.com/)
@@ -79,3 +80,6 @@ If you see a package or project here that is no longer maintained or is not a go
   * Data API - instant access to financial data
   * Payments API - instant payment initiation
 * [open-banking.io](https://open-banking.io/) - European bank-account aggregation API with no PSD2/eIDAS certificates required. Client-held encryption keys, simple server-to-server API, ~€3/mo.
+
+## Tools
+* [Open Banking RAG](https://github.com/rochak779/open-banking-rag) - Cited Q&A over UK Open Banking law and the API spec. Says when its sources don't cover a question, and is measured on a 40-question evaluation. [Live demo](https://openbanking.streamlit.app/).
